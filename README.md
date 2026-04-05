@@ -1,5 +1,7 @@
 # DEJAVU:H Typeface
 
+All rights to this typeface are exclusively owned by Kwangkee Lee.
+
 DEJAVU:H is an experimental typeface combining Latin and Hangul structural logic.  
 This typeface is an original work created by Kwangkee Lee and is not related to the DejaVu font project.
 
