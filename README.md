@@ -26,5 +26,8 @@ Any derivative creation (including similar font production) based on its structu
 For licensing inquiries:  
 dejavuh.license@gmail.com
 
+## Sample dejavuh_bold
 ![Bold](sample_dejavuh_bold.jpg)
+
+## Sample dejavuh_regular
 ![Regular](sample_dejavuh_regular.jpg)
